@@ -16,11 +16,12 @@ The **Contact Management System** is a robust C++ application designed to help u
 4. **Edit and Delete Options:**
    - Easily update or remove contact information when needed.
 
-[Contact Management System]([path/to/image.jpg](https://github.com/programmingpioneer/Contact-Management-System/tree/adf332c9d9393904bacb272c98be788d3282f3d3/Contact%20Management%20System%20In%20Phyton%20With%20DataBase))
+[Contact Management System Code Link 🔗 ]([path/to/image.jpg](https://github.com/programmingpioneer/Contact-Management-System/tree/adf332c9d9393904bacb272c98be788d3282f3d3/Contact%20Management%20System%20In%20Phyton%20With%20DataBase))
 
 
 
 <hr><hr>
 <h2>Output Pic</h2>
 
-![image Alt]()
+<img src="https://github.com/programmingpioneer/Contact-Management-System/blob/0586e4a3225cbe7b11d318695cf2d00eb250c3ce/Contact%20Management%20System%20In%20Phyton%20With%20DataBase/Output.1.png"  width="300" height="200" />
+<img src="https://github.com/programmingpioneer/Contact-Management-System/blob/0586e4a3225cbe7b11d318695cf2d00eb250c3ce/Contact%20Management%20System%20In%20Phyton%20With%20DataBase/Output.2.png" width="300" height="200" />
